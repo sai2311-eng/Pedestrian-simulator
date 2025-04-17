@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "dev.bxbstudio.inputs-manager": {
+      "tarball": {
+        "hash": "51142e93d4e5717af142ff93f2c88390",
+        "mtime": 1742595977000,
+        "size": 560590,
+        "localPath": "C:\\Users\\Naveenraj P\\Pedestrian Simulator\\Assets\\BxB Studio\\MVC Installer\\Packages\\dev.bxbstudio.inputs-manager@1.1.15.tgz"
+      }
+    },
+    "dev.bxbstudio.mvc.community": {
+      "tarball": {
+        "hash": "d3d1db7845c387f1245841a9b2e7b537",
+        "mtime": 1742595942000,
+        "size": 527093763,
+        "localPath": "C:\\Users\\Naveenraj P\\Pedestrian Simulator\\Assets\\BxB Studio\\MVC Installer\\Packages\\dev.bxbstudio.mvc.community@1.4.2-beta.2.tgz"
+      }
+    },
+    "dev.bxbstudio.utilities": {
+      "tarball": {
+        "hash": "109cdc81f1ceb20846ebb19fff7cf24f",
+        "mtime": 1742595986000,
+        "size": 1453691,
+        "localPath": "C:\\Users\\Naveenraj P\\Pedestrian Simulator\\Assets\\BxB Studio\\MVC Installer\\Packages\\dev.bxbstudio.utilities@1.1.10.tgz"
+      }
+    }
+  }
+}
